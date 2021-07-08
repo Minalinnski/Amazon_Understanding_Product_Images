@@ -1,7 +1,6 @@
 # Honors Senior Design - Fall 2020 to Spring 2021
-# The University of Texas at Austin at Zoom
-# Electrical and Computer Engineering Dept.
-# Team H19
+## The University of Texas at Austin
+## Team H19
 
 Team Members:
 * Ryed Ahmed
